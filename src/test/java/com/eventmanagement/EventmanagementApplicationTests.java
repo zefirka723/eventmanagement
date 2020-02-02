@@ -10,4 +10,4 @@ class EventmanagementApplicationTests {
 	void contextLoads() {
 	}
 
-}
+} //ПУУУНЬ!
